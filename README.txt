@@ -1,7 +1,6 @@
-	+------------------------------------------------+
-	|	   Projet Java                      |
-	|	   RayCasting                     |
-	+------------------------------------------------+
+Projet Java 
+RayCasting 
+
 
 L'objectif de ce projet est de pouvoir se déplacer sur une carte en 3D grâce au Raycasting,
 ainsi que de pouvoir éditer, sauvegarder et importer une carte pour se déplacer dessus.
